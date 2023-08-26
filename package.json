@@ -1,0 +1,8 @@
+{
+  "name": "game_site",
+  "version": "1.0.0",
+  "description": "free game site",
+  "main": "index.js",
+  "author": "hossain k.m.",
+  "license": "MIT"
+}
